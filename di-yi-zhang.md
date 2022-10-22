@@ -11,7 +11,7 @@
 7. 魔力流转周数 <mark style="background-color:blue;">Step</mark>。施法结果是历经多个魔力流转周期后，才释放出来的。流转周期不同，施法结果亦不相同。
 8. 施法种子 <mark style="background-color:blue;">Seed</mark>。如果不指定施法种子，每次施法时都会随机得到一个施法种子，从而产生不同的施法效果。
 9. 魔导石。魔导石有不同的微调版本
-
+10. 法术熵 <mark style="background-color:blue;">VRam</mark>。决定法术是否能够发动或法术发动的最大规模。
 
 
 在魔导器性能足够的前提下，如果使用的以上要素完全相同，任何公司制造的魔导器都能得到完全相同的施法结果。
