@@ -1,19 +1,10 @@
-# 序章
+---
+description: 要想成功的释放任何法术，都需要性能足够优良的魔导器。但是本书不对魔导器本身进行讨论。
+---
 
+# 第一章 像素魔法的要素
 
-通常地，要想成功的释放法术，需要足够的释法者属性，在施法者属性足够的情况下，使用九大要素构建魔法。
-
-
-## 施法者属性：
-
-
-1. 法术熵 <mark style="background-color:blue;">VRam</mark>。决定法术是否能够发动或法术发动的最大规模，通常地，在发动法术时，法术熵会急剧增加，当法术熵到达一定的阈值后，便会触发OOM惩罚。
-2. 法术强度 <mark style="background-color:blue;">FLOPS</mark>。决定法术释放的时间，通常地，法术强度越高，法术发动越快。
-3. 智力 <mark style="background-color:blue;">IQ</mark>。决定一个法师施法的综合素质，此项值越高，搭建施法环境的速度越快，错误率越低，法术的发动效率也越高；反之可能会出现类似于no such file or directory、no module named deepdanbooru，python is not an executable file等未知错误。
-
-
-## 构建像素魔法通常会使用如下几大要素：
-
+### 构建像素魔法通常会使用如下几大要素：
 
 1. 正面咒语 <mark style="background-color:blue;">Prompt</mark>。控制魔法在哪些维度发挥作用。
 2. 反面咒语 <mark style="background-color:blue;">Undesired Content</mark>。控制控制魔法，避免发生哪些作用。
@@ -23,7 +14,6 @@
 6. 魔力流转标尺 <mark style="background-color:blue;">Scale</mark>。可以控制施法结果的风格。
 7. 魔力流转周数 <mark style="background-color:blue;">Step</mark>。施法结果是历经多个魔力流转周期后，才释放出来的。流转周期不同，施法结果亦不相同。
 8. 施法种子 <mark style="background-color:blue;">Seed</mark>。如果不指定施法种子，每次施法时都会随机得到一个施法种子，从而产生不同的施法效果。
-9. 魔导石 <mark style="background-color:blue;">Sampler</mark>。魔导石有不同的微调版本，主流的有K_Eular_a,K_Eular,Eular_a,Eular,DDIM等。
+9. 魔导石 <mark style="background-color:blue;">Sampler</mark>。魔导石有不同的微调版本，主流的有K\_Eular\_a,K\_Eular,Eular\_a,Eular,DDIM等。
 
-
-# 在施法者属性足够的前提下，如果使用的要素完全相同，任何公司制造的魔导器都能得到完全相同的施法结果。
+在施法者属性足够的前提下，如果使用的要素完全相同，任何公司制造的魔导器都能得到完全相同的施法结果。
