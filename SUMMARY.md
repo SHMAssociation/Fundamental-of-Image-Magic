@@ -1,7 +1,7 @@
 # Table of contents
 
 * [序](README.md)
-* [第一章 像素魔法的要素](di-yi-zhang.md)
+* [第一章 像素魔法的要素](chapter-1.md)
 * [第二章 常规咒语](chapter-2.md)
 * [第三章 过激咒语](chapter-3.md)
 * [第四章 品质咒语](chapter-4.md)
