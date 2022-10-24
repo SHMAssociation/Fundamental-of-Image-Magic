@@ -1,7 +1,7 @@
 ---
 description: >-
   本在 Gitbook (https://www.gitbook.com/) 编纂并发布，并在 Github (https://github.com/)
-  同步。如果你对Gitbook不是非常熟悉，请不要直接在github提交更新，而是提交PR，或者通过github发issue并提交你的邮箱与准备编纂的内容，我们进过审核后会为你开通gitbook攥写权限，避免产生不必要的错误。
+  同步。如果您希望参与到本书的编纂和校阅，为了避免产生不必要的错误，请不要直接在github点击编辑并进行更新，而是提交PR，或者通过github发issue并提交你的邮箱与准备编纂的内容，我们进过审核后会为你开通gitbook攥写权限。
 layout: editorial
 ---
 
