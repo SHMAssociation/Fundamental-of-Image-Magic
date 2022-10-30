@@ -6,3 +6,4 @@
 * [第三章 过激咒语](chapter-3.md)
 * [第四章 品质咒语](chapter-4.md)
 * [第五章 场景咒语](chapter-5.md)
+* [第六章 咒语的隐性效果](chapter-6.md)

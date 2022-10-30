@@ -1,6 +1,6 @@
 ---
 description: >-
-  在学习咒语之前，我们必须认识到这一点：魔法是一种技术，但是魔法不遵循常识中的数学和逻辑。魔导器并不能理解你的语言，也不是单存把每个咒语的效果组合在一起，而是借由施法工具从虚空汲取魔力并施放结果的。
+  在学习咒语之前，我们必须认识到这一点：魔法是一种技术，但是魔法不遵循常识中的数学和逻辑。魔导器并不能理解你的语言，魔法也不是单纯把每个咒语的效果组合在一起，而是借由施法工具从虚空汲取魔力并施放结果的。
 ---
 
 # 第二章 常规咒语
@@ -44,3 +44,4 @@ NovelAI的一大特色，就是可以轻松召唤美少女影像——即使你�
 <mark style="background-color:blue;">0阶像素魔咒</mark>，在本书中简称<mark style="background-color:blue;">0阶魔咒</mark>。我们这样定义<mark style="background-color:blue;">0阶魔咒</mark>：单个魔咒即可产生稳定的法术效果。
 
 类似地，我们定义<mark style="background-color:blue;">1阶魔咒</mark>：1个相关魔咒组合即可产生法术效果，但是法术效果不稳定。<mark style="background-color:blue;">2阶魔咒</mark>：2-3个相关魔咒组合即可产生稳定的法术效果。定义<mark style="background-color:blue;">3阶魔咒</mark>：3个或3个以上的相关魔咒组合才能产生法术效果；或者2个魔咒即可产生法术效果，但是效果不稳定。定义<mark style="background-color:blue;">4阶魔咒</mark>：多个不相关魔咒组合才能产生法术效果。
+
