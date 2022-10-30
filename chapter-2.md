@@ -35,7 +35,7 @@ NovelAI的一大特色，就是可以轻松召唤美少女影像——即使你�
 
 但是，我们还是从塑造美少的女形象开始学习和练习。
 
-<mark style="color:purple;">例1-2</mark> 请输入Prompt: blue
+<mark style="color:purple;">例1-2</mark> 请输入Prompt: 1girl
 
 这是最常见并且基础的<mark style="background-color:blue;">0阶像素魔咒</mark>，作为像素魔法学习旅途的开始，最为合适不过了。
 
