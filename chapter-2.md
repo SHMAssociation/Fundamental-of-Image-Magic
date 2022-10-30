@@ -9,35 +9,37 @@ NovelAI的一大特色，就是可以轻松召唤美少女影像——即使你�
 
 
 
-<mark style="color:purple;">例1-1</mark> **** 请查看Prompt: blue 的连续4次施法。
+<mark style="color:purple;">例2-1</mark> **** 请查看Prompt: blue 的连续4次施法。
 
 图案出现了蓝色的天空、海洋。其中2次出现了女性人物形象。
 
 <div>
 
-<figure><img src=".gitbook/assets/E1-1B.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/E2-1B.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/E1-1A.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/E2-1A.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/E1-1D.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/E2-1D.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/E1-1C.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/E2-1C.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 因此，我们可以在咒语表述并不完整的前提下，给出一定的概念，由魔力自由发挥来完成魔法。
 
-但是，我们还是从塑造美少的女形象开始学习和练习。
+### 0阶像素魔法
 
-<mark style="color:purple;">例1-2</mark> 请输入Prompt: 1girl
+我们还是从塑造美少的女形象开始学习和练习。
 
-这是最常见并且基础的<mark style="background-color:blue;">0阶像素魔咒</mark>，作为像素魔法学习旅途的开始，最为合适不过了。
+<mark style="color:purple;">例2-2</mark> 请输入Prompt: 1girl
+
+这是最常见并且基础的<mark style="background-color:blue;">0阶像素魔咒</mark>，作为像素魔法学习旅途的开始，最为合适不过了。由于随机性太大，就不展示法术效果了。
 
 <mark style="background-color:blue;">0阶像素魔咒</mark>，在本书中简称<mark style="background-color:blue;">0阶魔咒</mark>。我们这样定义<mark style="background-color:blue;">0阶魔咒</mark>：单个魔咒即可产生稳定的法术效果。
 
