@@ -1,8 +1,9 @@
 ---
 description: >-
-  本在 Gitbook (https://www.gitbook.com/) 使用中文编纂并发布，并在 Github
+  本在 Gitbook (https://www.gitbook.com/) 使用中文编纂并免费发布，并在 Github
   (https://github.com/)
-  同步。如果您希望参与到本书的编纂和校阅，为了避免产生不必要的错误，请不要直接在github点击编辑并进行更新，而是通过提交PR，或者通过github发issue提交邮箱与准备编纂的内容，我们经过审核后会为您开通gitbook攥写权限。
+  保同步。如果您希望参与到本书的编纂和校阅，为了避免产生不必要的错误，请不要直接在github点击编辑并进行更新，而是通过提交PR，或者通过github
+  issue提交邮箱与准备编纂的内容，我们经过审核后会为您开通gitbook攥写权限。
 layout: editorial
 ---
 
@@ -21,3 +22,5 @@ layout: editorial
 本书发布地址：[https://magic-book-drafting-committee.gitbook.io/fundamental-of-image-magic/](https://magic-book-drafting-committee.gitbook.io/fundamental-of-image-magic/)
 
 本书托管地址：[https://github.com/SHMAssociation/Fundamental-of-Image-Magic](https://github.com/SHMAssociation/Fundamental-of-Image-Magic)
+
+本书大量参考了[NovelAI 5ch Wiki](https://seesaawiki.jp/nai\_ch/)以及其他互联网公开资料

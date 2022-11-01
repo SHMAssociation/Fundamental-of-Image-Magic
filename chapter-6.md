@@ -50,7 +50,7 @@ magical
 
 显然，使用magical cock的一组，画面更加融合。并且，大概率不会有鸡真的出现在画面中。
 
-但是为什么cock能够发挥这样的作用呢？没有人能够解答。其他的动物能够产生相似效果吗？
+但是为什么cock能够发挥这样的作用呢？没有人能够解答。其他的动物能够产生相似效果吗？我们尝试了一些其他的动物，并没有产生相似效果。
 
 <div>
 
@@ -66,4 +66,22 @@ magical
 
 </div>
 
-我们尝试了一些其他的动物，并没有产生相似效果。不止如此，目前也还没有发现其他的类似情况的咒语。
+但是是不是只有鸟类才有效果呢？答案仍然是否定的。但是我们看到魔法凤凰（magical phoenix）产生了翅膀的效果。
+
+<div>
+
+<figure><img src=".gitbook/assets/E6-1K.jpg" alt=""><figcaption><p>magical chicken</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/E6-1L.jpg" alt=""><figcaption><p>magical phoenix</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/E6-1J.jpg" alt=""><figcaption><p>magical chicken, UC: chicken</p></figcaption></figure>
+
+</div>
+
+
+
+目前还未发现其他的类似情况的咒语。

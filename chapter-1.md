@@ -10,7 +10,7 @@ description: >-
 构建像素魔法通常会使用如下几大要素：
 
 1. 正面咒语 <mark style="background-color:blue;">Prompt</mark>。控制魔法在哪些维度发挥作用。
-2. 反面咒语 <mark style="background-color:blue;">Undesired Content</mark>。控制魔法，避免产生哪些效果。
+2. 反面咒语 <mark style="background-color:blue;">Undesired Content（UC）</mark>。控制魔法，避免产生哪些效果。
 3. 魔法规模 <mark style="background-color:blue;">Resolution</mark>。控制施法结果的尺寸。即使其他要素完全相同，但是魔法规模不同，施法结果是完全不同的，而非缩放和裁切的关系。在NovelAI中，首选512\*768规模的魔法。
 4. 魔法基础模型 <mark style="background-color:blue;">model</mark>。基础模型决定了哪些咒语是有效的，产生的效果是如何的。在NovelAI中，目前基础模型有Curated，Full和Beta。
 5. 魔法增补模型 <mark style="background-color:blue;">Hypernetwork</mark>。魔导士可以根据自己的需求，制作一个包含专有咒语的模型，作为基础模型的补充，和基础模型结合使用，从而获得个性化的魔法效果。
