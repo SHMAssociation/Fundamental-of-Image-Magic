@@ -15,19 +15,19 @@ description: >-
 
 <div>
 
-<figure><img src=".gitbook/assets/E2-1B.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/E2-1B.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/E2-1A.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/E2-1A.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/E2-1D.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/E2-1D.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/E2-1C.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/E2-1C.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -59,7 +59,7 @@ description: >-
 
 <mark style="color:purple;">例2-4</mark> 请输入Prompt: `1girl, aqua hair, high twintail, white shirt, bare shoulders, black pleated skirt, black detached sleeves, aqua necktie, standing`
 
-<figure><img src=".gitbook/assets/E2-4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/E2-4.jpg" alt=""><figcaption></figcaption></figure>
 
 虽然不能说一模一样，但是可以称为颇为神似。这个魔法包含了哪些咒语呢？我们在1girl之后，跟随了：
 
@@ -72,7 +72,7 @@ description: >-
 
 粗略来看，就是直接使用特定对象的特征词就结束了。那么哪些特征词是可以用的呢？可以查看[https://danbooru.donmai.us/](https://danbooru.donmai.us/) ，也有一些其他的参考书和工具可以使用。
 
-你可能已经注意到，实际上的效果并非和描述完全一致。譬如使用了<mark style="color:orange;">black detached sleeves,黑色袖子</mark>，但是实际出现的是白色袖子。并且多次重复施法，都很难呈现理想效果。
+你可能已经注意到，实际上的效果并非和描述完全一致。譬如使用了<mark style="color:orange;">black detached sleeves,黑色袖子</mark>，但是实际出现的是<mark style="color:orange;">白色袖子</mark>。并且多次重复施法也很难呈现理想效果（并非完全不能，而是概率极低）。这个例子说明，魔法并不总按照魔咒的堆砌而生效。
 
 
 
@@ -80,8 +80,28 @@ description: >-
 
 在此例中，使用了两种技巧：
 
-1. 使用了{}。{}的作用是加强魔咒的作用效果，任何魔咒都可以使用这个符号从而得到加强。可叠加使用，每对{}增强1.05倍。
-2. 在末尾又增加了`black arm wears。black arm wears和前边的black detached sleeves构成了2阶魔咒，对黑色袖子的概念进行强化。`
+1. 使用了{}。{}的作用是加强魔咒的作用效果，任何魔咒都可以使用这个符号从而得到加强。可叠加使用，每对{}增强1.05倍。反之，使用\[]可以削弱效果。
+2. 在末尾又增加了<mark style="color:orange;">black arm wears</mark>。它和前边的<mark style="color:orange;">black detached sleeves</mark>构成了2阶魔咒，对黑色袖子的概念进行强化。
 
-但是很遗憾实际上并没有产生明显的效果。提高魔力流转标尺 Scale 可以明显改善袖子的问题，但是又会造成画风的变化。
+但是很遗憾实际上并没有产生明显的效果。这个例子说明，也并不一定因为个别魔咒有增强而产生增强的效果。
+
+
+
+<mark style="color:purple;">例2-6</mark> 请输入Prompt: `1girl, aqua hair, high twintail, {{{{black detached sleeves}}}}, white shirt, bare shoulders, black pleated skirt, aqua necktie, standing, {{black arm wears}}`
+
+和前例相比，我们调整了black detached sleeves所在的位置。我们可以看到，此时出现黑色袖子的概率大大提升了——虽然还会有其他的问题。此例证明，魔咒的顺序会对结果造成很大影响，建议将最重要的内容保留在提示的前半部分。
+
+当然也有一些其他的改善方法，比如提高魔力流转标尺 Scale，但是又会造成画风的变化；调高Steps，可能会增加额外的开销。
+
+综合考虑，笔者认为使用白色袖子、其他方面更加自然的效果，是更好的。但是不同的人可能有不同的选择——你也可以使用更多的时间大量施法，从黑色袖子的图像中寻找各方面都完美的图片；或者使用其他技术手段对魔法效果进行补充。
+
+
+
+### 第一个魔法：再进化
+
+
+
+<mark style="color:purple;">例2-7</mark> 请输入Prompt: `1girl, aqua hair, high twintail, white shirt, bare shoulders, black pleated skirt, {{{{black detached sleeves}}}}, aqua necktie, standing, {{black arm wears}}, stage, live, mic`
+
+<figure><img src="../.gitbook/assets/E2-7.jpg" alt=""><figcaption></figcaption></figure>
 
