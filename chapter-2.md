@@ -9,7 +9,7 @@ description: >-
 
 ### 观摩第一个魔法
 
-<mark style="color:purple;">例2-1</mark> \*\*\*\* 请查看Prompt: `blue` 的连续4次施法。
+<mark style="color:purple;">例2-1</mark> 请查看Prompt: `blue` 的连续4次施法。
 
 图案出现了蓝色的天空、海洋。其中2次出现了女性人物形象。
 
@@ -98,7 +98,5 @@ description: >-
 <mark style="color:purple;">例2-7</mark> 请输入Prompt: `1girl, aqua hair, high twintail, white shirt, bare shoulders, black pleated skirt, {{{{black detached sleeves}}}}, aqua necktie, standing, {{black arm wears}}, stage, live, mic`
 
 <figure><img src=".gitbook/assets/E2-7.jpg" alt=""><figcaption></figcaption></figure>
-
-
 
 增加道具和场景（即麦克风和舞台）后，构成了舞台演出的画面。至此，我们的第一个魔法就完成了。
