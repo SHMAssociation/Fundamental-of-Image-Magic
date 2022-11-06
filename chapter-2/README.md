@@ -80,10 +80,10 @@ description: >-
 
 在此例中，使用了两种技巧：
 
-1. 使用了{}。{}的作用是加强魔咒的作用效果，任何魔咒都可以使用这个符号从而得到加强。可叠加使用，每对{}增强1.05倍。反之，使用\[]可以削弱效果。
+1. 使用了{}。{}的作用是加强魔咒的作用效果，任何魔咒都可以使用这个符号从而得到加强。可叠加使用，每对{}增强1.05倍。反之，使用[]可以削弱效果。
 2. 在末尾又增加了<mark style="color:orange;">black arm wears</mark>。它和前边的<mark style="color:orange;">black detached sleeves</mark>构成了2阶魔咒，对黑色袖子的概念进行强化。
 
-但是很遗憾实际上并没有产生明显的效果。这个例子说明，也并不一定因为个别魔咒有增强而产生增强的效果。
+但是很遗憾实际上并没有产生理想的效果（概率实际应有提升）。这个例子说明，并不一定因为个别魔咒有增强而产生决定性的效果。
 
 
 
@@ -96,12 +96,12 @@ description: >-
 综合考虑，笔者认为使用白色袖子、其他方面更加自然的效果，是更好的。但是不同的人可能有不同的选择——你也可以使用更多的时间大量施法，从黑色袖子的图像中寻找各方面都完美的图片；或者使用其他技术手段对魔法效果进行补充。
 
 
-
 ### 第一个魔法：再进化
 
-
+前例已经指定了人物形象和动作，但是通常我们需要再补充一些内容，构成故事性的效果。
 
 <mark style="color:purple;">例2-7</mark> 请输入Prompt: `1girl, aqua hair, high twintail, white shirt, bare shoulders, black pleated skirt, {{{{black detached sleeves}}}}, aqua necktie, standing, {{black arm wears}}, stage, live, mic`
 
 <figure><img src="../.gitbook/assets/E2-7.jpg" alt=""><figcaption></figcaption></figure>
 
+增加道具和场景（即麦克风和舞台）后，构成了舞台演出的画面。至此，我们的第一个魔法就完成了。
