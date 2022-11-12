@@ -98,22 +98,6 @@ smiley face 笑容（通常露齿）
 |  >:) |  两个眉毛构成V的笑容  |     |
 
 
-## 画幅
-
-
-silhouette 剪影
-motion blur 运动模糊
-halftone 网点
-
-drop shadow 阴影（平行投影）
-lens flare 镜头光晕
-sparkle 闪光
-diffraction spikes 大闪光
-
-backlighting 逆光
-bloom 有明亮的光线照射
-atmospheric perspective 空气透视，实际效果是类似瑞利散射的太空
-
 
 
 

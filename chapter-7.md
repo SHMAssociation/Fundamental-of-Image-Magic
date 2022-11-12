@@ -50,6 +50,7 @@ pov本身理论上也可以增强，但是实际效果不佳。例如：
 | from_side          | 侧视                     |
 | profile            | 侧脸                     |
 | viewfinder         | 取景框（实际无效）        |
+| motion blur        | 运动模糊                  |
 
 
 ## 背景
@@ -79,7 +80,28 @@ pov本身理论上也可以增强，但是实际效果不佳。例如：
 | photorealistic |     写实风格，3d数字图像风格 |
 | sketch         |     速写 |
 | ukiyo-e        |     浮世绘 |
+| halftone       |     网点 |
 
+艺术家的风格模仿列表参考 https://danbooru.donmai.us/wiki_pages/list_of_style_parodies
+
+## 效果
+
+| 咒语               | 释义    | 备注          |
+|:----------------:|:-----:|:-----------:|
+| silhouette | 剪影 |
+| drop shadow | 阴影（平行投影）|
+| 
+
+## 光学效果
+
+| 咒语               | 释义    | 备注          |
+|:----------------:|:-----:|:-----------:|
+| backlighting            | 逆光                                    |
+| bloom                   | 有明亮的光线照射 |
+| lens flare              | 镜头光晕 |
+| sparkle                 | 闪光 |
+| diffraction spikes      | 大闪光 |
+| atmospheric perspective | 空气透视，实际效果是类似瑞利散射的天空  |
 
 
 ## 强调
@@ -95,13 +117,3 @@ pov本身理论上也可以增强，但是实际效果不佳。例如：
 | wind chime focus |  强调风铃 | 通常会出现俯视视角   |
 |                  |       |             |
 
-
-
-
-## 风格
-https://danbooru.donmai.us/wiki_pages/list_of_style_parodies
-
-参数冲突(提示词)
-比如 sex 包含较多姿势体位，在使用者想要特定姿势时，法术内单一的 sex tag就应该被删除。
-
-同样地，loli Tag 附带了强画风属性，会很大地影响结果！改成 female child 会好一点。
