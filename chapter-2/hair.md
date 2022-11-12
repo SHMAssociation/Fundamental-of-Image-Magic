@@ -52,15 +52,18 @@ description: 头发是像素魔法中，塑造人物形象的重中之重。御�
 |                          side braids                         |          一侧辫子         |                                                                |
 |                          twin braids                         |          两条辫子         |                                                                |
 |                           twintails                          |          双马尾          |                                                                |
+|                           two side up                          |          披肩双马尾          |         长发的少部分束为双马尾                                       |
 |                         low twintails                        |     低双马尾（扎起来的位置低）     |                       类似的还有high twintails                      |
 |                   short twintails, pigtails                  |          短双马尾         |                       类似的还有long twintails                      |
 |                          twin drills                         |           双钻          |                                                                |
 |                           wavy hair                          |           波浪          |                                                                |
 |                          curly hair                          |           卷发          |                                                                |
+|                          straight hair                          |           直发          |                                                                |
 | parted bangs, swept bangs, crossed bangs, asymmetrical bangs |           偏分          |                                                                |
 |                             bangs                            |           刘海          |                                                                |
 |                        hair over eyes                        |         刘海遮住眼睛        |                                                                |
 |                           sidelock                           |        鬓发，前发侧面        |                                                                |
+|                       short hair with long locks           |        短发+长鬓发        |                                                                |
 |                             ahoge                            |           呆毛          |                                                                |
 |                           bowl cut                           |          锅盖头          |                                                                |
 |                            bob cut                           | 波波头.鲍勃头,一种女士短发,头发边缘平直 |                                                                |

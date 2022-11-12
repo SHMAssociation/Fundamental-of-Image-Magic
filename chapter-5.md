@@ -17,8 +17,8 @@ on bed 在床上
 onsen 温泉
 
 
-| Tags | Usage | Comment |
+| 咒语    | 释义 | 备注 |
 | ---- | ----- | ------- |
-|      |       |         |
-|      |       |         |
+|  underwater  |   在水中 |         |
+|  partially underwater shot  |  身体的一部分在水里  |         |
 |      |       |         |

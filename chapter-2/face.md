@@ -18,7 +18,7 @@
 
 </div>
 
-图片来自\[维基百科]\(https://commons.wikimedia.org/wiki/File:Schematic\_diagram\_of\_the\_human\_eye\_zh-hans.svg)
+图片来自[维基百科](https://commons.wikimedia.org/wiki/File:Schematic_diagram_of_the_human_eye_zh-hans.svg)
 
 特别的颜色有：
 
@@ -67,15 +67,53 @@ heterochromia 异色瞳（颜色不可控）以及multicolored eyes，后方跟�
 | looking over eyewear |        扶眼镜的动作        |     |
 |                      |                      |     |
 
+
+## 其他五官
+
+|     咒语    |    释义    |  备注 |
+| :--------: | :---------: | :-: |
+|  no nose   |  不绘制鼻子 |     |
+
+
+## 表情
+smiley face 笑容（通常露齿）
+
+
 ## 符号表情
 
 在互联网初期，蓝星人发明了使用符号代表表情的技术。后来emoji和图片表情取代了符号表情。而现在，他又回来了。
 
+通常符号表情用`:`和`;`指代正常的眼睛和眯着的眼睛。这里以含`:`的符号表情为例进行说明，不再赘述含`;`表情的效果。在novelAI中，大小写是被自动忽略的，因此在表格中使用更为象形的写法。 
+需要特别注意，以下表格中，部分符号表情可能会被字体引擎错误地渲染为emoji效果。  
+
 |  咒语 |  释义  |  备注 |
 | :-: | :--: | :-: |
 |  :< |  哭脸  |  :( |
-|  :> |  笑脸  |  :( |
+|  :> |  笑脸  |  1阶魔咒 |
+|  :) |  笑脸  |     |
 |  :D |  大笑  |     |
 |  :o | 惊讶张嘴 |     |
-|  ;p |  吐舌头 |     |
-|     |      |     |
+|  :p |  吐舌头 |     |
+|  :q |  舔上嘴唇 |  无效  |
+|  >:) |  两个眉毛构成V的笑容  |     |
+
+
+## 画幅
+
+
+silhouette 剪影
+motion blur 运动模糊
+halftone 网点
+
+drop shadow 阴影（平行投影）
+lens flare 镜头光晕
+sparkle 闪光
+diffraction spikes 大闪光
+
+backlighting 逆光
+bloom 有明亮的光线照射
+atmospheric perspective 空气透视，实际效果是类似瑞利散射的太空
+
+
+
+
