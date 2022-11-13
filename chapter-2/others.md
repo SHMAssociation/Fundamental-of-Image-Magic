@@ -28,7 +28,7 @@
 |           armpits          |  腋窝 |     |
 | sweat, sweating, sweatdrop |  汗水 |     |
 |           tongue           |  舌头 |     |
-|           crotch           |  裆布 |     |
+|           crotch           |  裆部 |     |
 |            nape            |  项  |     |
 |            back            |  背  |     |
 |                            |     |     |
