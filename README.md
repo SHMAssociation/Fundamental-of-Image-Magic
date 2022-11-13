@@ -23,4 +23,4 @@ layout: editorial
 
 本书托管地址：[https://github.com/SHMAssociation/Fundamental-of-Image-Magic](https://github.com/SHMAssociation/Fundamental-of-Image-Magic)
 
-本书大量参考了[NovelAI 5ch Wiki](https://seesaawiki.jp/nai\_ch/)以及其他互联网公开资料
+本书大量参考了[NovelAI 5ch Wiki](https://seesaawiki.jp/nai_ch/)以及其他互联网公开资料

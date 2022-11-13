@@ -6,6 +6,7 @@
   * [身体：头发](chapter-2/hair.md)
   * [身体：面部](chapter-2/face.md)
   * [身体：其他](chapter-2/others.md)
+  * [职业和套装](chapter-2/suit.md)
   * [服装](chapter-2/clothes.md)
   * [动作](chapter-2/action.md)
 * [第三章 过激咒语](chapter-3.md)

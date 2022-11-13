@@ -18,7 +18,7 @@ pov与incoming可以很好的构成二阶魔咒，例如：
 |       咒语      |       释义      |   备注   |
 | :-----------: | :-----------: | :----: |
 | incoming hand |  实际效果是你向对方伸双手 | 需使用pov |
-| reaching\_out | 对方伸出手（通常是一只手） | 不使用pov |
+| reaching out | 对方伸出手（通常是一只手） | 不使用pov |
 
 pov本身理论上也可以增强，但是实际效果不佳。例如：
 
@@ -34,7 +34,7 @@ pov本身理论上也可以增强，但是实际效果不佳。例如：
 | from behind            | 相机从后方看      |      |
 | looking back           | 人物看向后方      |      |
 | facing back            | 转脸（但是不一定在看） |      |
-| looking\_to\_the\_side | 看向侧面        | 1阶魔咒 |
+| looking to the side | 看向侧面        | 1阶魔咒 |
 |                        |             |      |
 |                        |             |      |
 |                        |             |      |
@@ -61,7 +61,7 @@ pov本身理论上也可以增强，但是实际效果不佳。例如：
 |     lower body    |      下半身     |     |
 | head out of frame |      头出框     |     |
 |    dutch angle    |   荷兰角，倾斜构图   |     |
-|     from\_side    |      侧视      |     |
+|     from side    |      侧视      |     |
 |      profile      |      侧脸      |     |
 |     viewfinder    |   取景框（实际无效）  |     |
 |    motion blur    |     运动模糊     |     |
@@ -70,11 +70,11 @@ pov本身理论上也可以增强，但是实际效果不佳。例如：
 
 <div>
 
-<figure><img src=".gitbook/assets/F7-1A.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/F7-1A.jpg" alt=""><figcaption><p>有portrait。 图片来自 <a href="https://seesaawiki.jp/nai_ch/d/%a5%ab%a5%e1%a5%e9%b8%fa%b2%cc">https://seesaawiki.jp/nai_ch/d/%a5%ab%a5%e1%a5%e9%b8%fa%b2%cc</a></p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/F7-1B.jpg" alt=""><figcaption><p>图片来自 <a href="https://seesaawiki.jp/nai_ch/d/%a5%ab%a5%e1%a5%e9%b8%fa%b2%cc">https://seesaawiki.jp/nai_ch/d/%a5%ab%a5%e1%a5%e9%b8%fa%b2%cc</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/F7-1B.jpg" alt=""><figcaption><p>无portrait。 图片来自 <a href="https://seesaawiki.jp/nai_ch/d/%a5%ab%a5%e1%a5%e9%b8%fa%b2%cc">https://seesaawiki.jp/nai_ch/d/%a5%ab%a5%e1%a5%e9%b8%fa%b2%cc</a></p></figcaption></figure>
 
 </div>
 
@@ -109,7 +109,7 @@ pov本身理论上也可以增强，但是实际效果不佳。例如：
 |     ukiyo-e    |         浮世绘         |     |
 |    halftone    |          网点         |     |
 
-艺术家的风格模仿列表参考 https://danbooru.donmai.us/wiki\_pages/list\_of\_style\_parodies
+艺术家的风格模仿列表参考 https://danbooru.donmai.us/wiki_pages/list_of_style_parodies
 
 ## 效果
 
