@@ -45,7 +45,9 @@ description: >-
 
 <mark style="background-color:blue;">0阶像素魔咒</mark>，在本书中简称<mark style="background-color:blue;">0阶魔咒</mark>。我们这样定义<mark style="background-color:blue;">0阶魔咒</mark>：单个魔咒即可产生稳定的法术效果。
 
-类似地，我们定义<mark style="background-color:blue;">1阶魔咒</mark>：1个相关魔咒组合即可产生法术效果，但是法术效果不稳定。<mark style="background-color:blue;">2阶魔咒</mark>：2-3个相关魔咒组合即可产生稳定的法术效果。定义<mark style="background-color:blue;">3阶魔咒</mark>：3个或3个以上的相关魔咒组合才能产生法术效果；或者2个魔咒即可产生法术效果，但是效果不稳定。定义<mark style="background-color:blue;">4阶魔咒</mark>：多个不相关魔咒组合才能产生法术效果。定义魔咒的等级仅为方便对魔咒从复杂程度上进行分类和讨论，不代表魔咒本身的效果与威能。
+类似地，我们定义<mark style="background-color:blue;">1阶魔咒</mark>：1个相关魔咒组合即可产生法术效果，但是法术效果不稳定。<mark style="background-color:blue;">2阶魔咒</mark>：2-3个相关魔咒组合即可产生稳定的法术效果。定义<mark style="background-color:blue;">3阶魔咒</mark>：3个或3个以上的相关魔咒组合才能产生法术效果；或者2个魔咒即可产生法术效果，但是效果不稳定。定义<mark style="background-color:blue;">4阶魔咒</mark>：多个不相关魔咒组合才能产生法术效果。
+
+定义魔咒的等级仅为方便对魔咒从复杂程度上进行分类和讨论，不代表魔咒本身的效果与威能。本书对部分魔咒标注了1阶魔咒、无效魔咒，但是不等于他们完全没有用。我们目前对魔法的认知相当有限，可能这些魔咒，和特定的0阶、1阶魔咒组合可以构建出稳定的2阶魔咒、3阶魔咒。
 
 一个完整的魔法，通常会有多组魔咒。
 
