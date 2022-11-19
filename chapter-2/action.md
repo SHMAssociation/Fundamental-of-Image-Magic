@@ -18,12 +18,8 @@
 | pouncing   | 突袭        |      |
 | bowing     | 鞠躬        |      |
 | dogeza     | 士下座       | 无效   |
-| skirt hold | 拎着裙子（安全的） |      |
-| skirt lift | 掀开裙子      |      |
-| skirt flip | 裙子被掀开     | 无效   |
-| skirt tug  | 往下拽裙边     | 1阶魔咒 |
 
-### 下肢动作
+## 下肢动作
 
 |          咒语         |          释义         |        备注        |
 | :-----------------: | :-----------------: | :--------------: |
@@ -47,3 +43,21 @@
 |                     |                     |                  |
 |                     |                     |                  |
 
+
+## 衣物动作
+
+|     咒语     |  释义 |  备注 |
+| :--------: | :-: | :-: |
+| skirt hold | 拎着裙子（安全的） |      |
+| skirt lift | 掀开裙子      |      |
+| skirt flip | 裙子被掀开     | 无效   |
+| skirt tug  | 往下拽裙边     | 1阶魔咒 |
+|  adjusting skirt   |   调整裙子  |  无效（可以搭配其他部位尝试）  |
+|  hand under panties    | 手在内裤里  | 无效   |
+|  strap lift  |   调整肩带   |   无效 |
+|  untying |  解开（带子）   |  无效      |
+| untied_bikini  |  解开带子的比基尼   |  无效      |
+|  lifted by another  |   衣服被别人撩起   |        |
+|  lifted by self     |             |        |
+|                     |             |        |
+|                     |             |        |
